@@ -119,6 +119,7 @@ namespace Home_Work
             //    newA += ((int)(A / (Math.Pow(10, razr - 1 - i))) % 10) * (int)(Math.Pow(10, i));
             //}
 
+
             //Console.WriteLine(newA);
 
 
